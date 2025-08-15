@@ -1,17 +1,17 @@
 # SQL_Task8
 # Database Setup
 
-1.Database creation
+1. Database creation
 
 Creates a database named ecommerce and selects it.
 
-2.Tables created
+2. Tables created
 
 ec_customers: Stores customer details (customer_id, customer_name, email, city).
 
 ec_orders: Stores order details (order_id, customer_id, amount, order_date) with a foreign key linking to ec_customers.
 
-3.Sample data inserted
+3. Sample data inserted
 
 Four customers from different cities.
 
